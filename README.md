@@ -1,0 +1,2 @@
+# ChinesePublicLicense
+适合中国国情的开源软件授权许可证
