@@ -8,6 +8,7 @@
 
 ### 自定义许可证
 - [CustomLicense](/CustomLicense.md)
+- [LICENSE](/LICENSE)
 
 ### 最终用户许可协议
 - [自定义EULA](/EULA.md)
