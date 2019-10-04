@@ -32,11 +32,11 @@ https://github.com/gzu-liyujiang/ChinesePublicLicense/blob/master/CustomLicense.
 1. 在软件包的一级目录下创建以“LICENSE”为名的文件，将本许可证的所有内容复制放入该文件中。
 2. 补充本许可证中第一条款中的版权声明的占位部分，包括软件名称、版权人的名字、软件的首次发表年份以及您的联系方式。
 3. 补充如下的版权声明文本中的占位部分，包括软件名称、版权人的名字以及软件的首次发表年份，并将版权声明文本放入每个源代码文件的头部注释中。
-4.可以根据自身情况酌情修改许可证相关内容。
+4. 可以根据自身情况酌情修改许可证相关内容。
 
 ```text
 Copyright (c) <软件的首次发表年份> <版权人的名字>
 <软件名称>依据《自定义公共许可证》进行授权。
 有关该许可证的更多详细信息，请从以下网址获取副本进行参阅：
-https://github.com/gzu-liyujiang/ChinesePublicLicense/CustomLicense
+https://github.com/gzu-liyujiang/ChinesePublicLicense/blob/master/CustomLicense.md
 ```
