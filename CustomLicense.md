@@ -1,6 +1,6 @@
 # 自定义公共许可证
 
-https://github.com/gzu-liyujiang/ChinesePublicLicense/CustomLicense.md
+https://github.com/gzu-liyujiang/ChinesePublicLicense/blob/master/CustomLicense.md
 
 ## 一、版权声明
 
